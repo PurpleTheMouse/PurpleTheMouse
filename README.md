@@ -1,10 +1,8 @@
-- Writer , Pianist , Artist
 - Learns Arduino and G-Cloud
 - Learning Data structuring
 - Wanting to create a Home Server
-
-- Doesnt like coding
-
+&nbsp
+Excels in Worldbuilding, Storytelling, and Learning. 
 
 <!---
 Purp.
